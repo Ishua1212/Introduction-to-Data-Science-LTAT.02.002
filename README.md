@@ -1,2 +1,6 @@
 # Introduction-to-Data-Science-LTAT.02.002
-Introduction to Data Science project
+Leaf Classification project
+
+Egert Koppel - EK023
+Kaido Kossas - DeadKai
+Sander Miller - Ishua1212
